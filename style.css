@@ -1,0 +1,74 @@
+.Saludo{
+	color: white;
+    font-size: 200%;
+    text-align:center;
+    margin-bottom: 10px;
+}
+html {
+        background: url(vamoss/fondode.jpg) 
+        no-repeat center center fixed;
+        background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+}
+.Quehago{
+	color: white;
+
+}
+.hobbies{
+	color: white;
+}
+p{
+	color : yellow;
+}
+ul{
+    color: yellow;
+    font-size: 30px;
+}
+.bg-1{
+height: 40vh; 
+padding-top: 10px;
+}
+.t-stroke {
+
+font-size: 50px;
+color: transparent;
+-moz-text-stroke-width: 2px;
+-webkit-text-stroke-width: 2px;
+-moz-text-stroke-color: white;
+-webkit-text-stroke-color: white;
+}
+.t-shadow {
+text-shadow: 7px 7px yellow
+}
+.bg-2{
+height: 20vh; 
+padding-top: 10px;
+}
+.t-stroke {
+
+color: transparent;
+-moz-text-stroke-width: 2px;
+-webkit-text-stroke-width: 2px;
+-moz-text-stroke-color: white;
+-webkit-text-stroke-color: white;
+}
+.t-shadow {
+text-shadow: 3px 3px yellow
+}
+.bg-3{
+height: 20vh; 
+padding-top: 10px;
+}
+.t-stroke {
+
+color: transparent;
+-moz-text-stroke-width: 2px;
+-webkit-text-stroke-width: 2px;
+-moz-text-stroke-color: white;
+-webkit-text-stroke-color: white;
+}
+.t-shadow {
+text-shadow: 3px 3px yellow
+}
